@@ -1,6 +1,7 @@
-# I'm Alexander Meade</h1>
-
+# I'm Alexander Meade</h1> 
 **`A uni student with a computer`**
+
+##About Me
 
 <p align="left">
 </p>
@@ -51,3 +52,5 @@
 </a> 
 
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
