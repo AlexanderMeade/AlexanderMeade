@@ -7,7 +7,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="right">
+<p align="top">
     <a href="https://gleam.run/" target="_blank" rel="noreferrer">
     <img src = "https://gleam.run/images/lucy/lucy.svg" alt="gleam" width = "40" height = "40"/>
     </a>
