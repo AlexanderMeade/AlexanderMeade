@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alexander Meade</h1>
-<h3 align="center">A uni student studying computer engineering</h3>
+# I'm Alexander Meade</h1>
+** A uni student with a computer
 
 - 🔭 I’m currently working on **ASM Visuailzer**
 
