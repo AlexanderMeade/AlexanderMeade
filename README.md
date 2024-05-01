@@ -5,7 +5,8 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+## Langagues, frameworks and tools :D
 
 <p align="center" style="padding: 0px 15px 0px 15px">
     <a href="https://gleam.run/" target="_blank" rel="noreferrer" >
