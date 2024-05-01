@@ -7,6 +7,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
+
 ![lucy](https://github.com/AlexanderMeade/AlexanderMeade/assets/128431625/d6eaff43-7b69-48cd-9a84-7ca9b1ff400f)
 
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
