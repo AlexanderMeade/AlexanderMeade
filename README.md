@@ -1,7 +1,13 @@
 # I'm Alexander Meade</h1> 
 **`A uni student with a computer`**
 
-##About Me
+# About me
+
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
 
 <p align="left">
 </p>
