@@ -7,8 +7,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="center" padding = 300px>
-    <a href="https://gleam.run/" target="_blank" rel="noreferrer">
+<p align="center" >
+    <a href="https://gleam.run/" target="_blank" rel="noreferrer" padding = 5px>
         <img src = "https://gleam.run/images/lucy/lucy.svg" alt="gleam" width = "40" height = "40"/>
     </a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
