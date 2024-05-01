@@ -7,6 +7,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
+![lucy](https://github.com/AlexanderMeade/AlexanderMeade/assets/128431625/d6eaff43-7b69-48cd-9a84-7ca9b1ff400f)
 
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
   <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgleam.run%2F&psig=AOvVaw1sSJwZ_RhYk1zPGYIoA7KA&ust=1714665032748000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIC78ZPn7IUDFQAAAAAdAAAAABAE" alt="gleam" width = "40" height = "40"/>
