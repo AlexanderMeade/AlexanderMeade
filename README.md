@@ -1,5 +1,6 @@
 # I'm Alexander Meade</h1>
-** A uni student with a computer **
+**`A uni student with a computer`**
+
 
 - 🔭 I’m currently working on **ASM Visuailzer**
 
