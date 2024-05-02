@@ -47,8 +47,6 @@ That's all, bye. :D
 # tools I'm learning
 
 <br>
-
-
 <p align = "center"  >
     <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer" >
         <img src = "https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_169207.png" alt="elixir" width = "80" height = "80"/>
@@ -57,7 +55,7 @@ That's all, bye. :D
         <img src = "https://www.erlang.org/assets/img/erlang-logo.svg" alt="erlang" width = "80" height = "80"/>
     </a>
         <a href="https://www.phoenixframework.org/" target="_blank" rel="noreferrer" >
-        <img src = "https://www.phoenixframework.org/images/phoenix-78c0fd3233522383ea9093ef877c8851.png?vsn=d" alt="erlang" width = "80" height = "80"/>
+        <img src = "https://seeklogo.com/images/P/phoenix-logo-D15F067911-seeklogo.com.png" alt="erlang" width = "80" height = "80"/>
     </a>
 </p>
 
