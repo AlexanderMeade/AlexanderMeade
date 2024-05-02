@@ -24,11 +24,11 @@ That's all, bye. :D
 
 
 <div class='parent inline-flex-parent' style = "display: grid;grid-template-columns: 1fr 1fr;">
-  <div class='child'>
+  <div class='child' style = "float:left">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderMeade&show_icons=true&theme=radical)   
   </div>
-  <div class='child'>
+  <div class='child' style = "float:left">
       
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMeade)](https://github.com/anuraghazra/github-readme-stats)
       
