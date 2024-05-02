@@ -90,7 +90,9 @@ That's all, bye. :D
     
 </summary>
 
+
 <script>
+  
 function myFunction() {
   // Get the text field
   var copyText = document.getElementById("myInput");
