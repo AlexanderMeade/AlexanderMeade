@@ -40,7 +40,9 @@ That's all, bye. :D
     <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer" >
         <img src = "https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_169207.png" alt="gleam" width = "40" height = "40"/>
     </a>
-    
+    <a href="https://www.erlang.org/" target="_blank" rel="noreferrer" >
+        <img src = "https://www.erlang.org/assets/img/erlang-logo.svg" alt="gleam" width = "40" height = "40"/>
+    </a>
 </p>
 
 
