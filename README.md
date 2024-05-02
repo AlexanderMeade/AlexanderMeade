@@ -2,18 +2,7 @@
 **`A uni student with a computer`**
 
 
-<details>
-<summary style="font-size:32px">
-    <b >
-        <h>
-        About me
-        <h/>            
-    <b/>
-    
-</summary>
-<br>
 <pre>
-( Felix Lee  )
   ／\_/\  
  （ﾟ､ ｡ )
   |、ﾞ~ヽ
@@ -27,9 +16,18 @@ That's all, bye. :D
 
 some stats :O
 
+<details>
+<summary style="font-size:32px">
+    <b >
+        <h>
+        Extras
+        <h/>            
+    <b/>
+    
+</summary>
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderMeade&show_icons=true&theme=radical)
 </details>
-
 <p align="left">
 </p>
 <b style = "text-align: center">Tools I'm learning</b>
