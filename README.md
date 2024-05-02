@@ -60,7 +60,7 @@ That's all, bye. :D
 
 ## Langagues, frameworks and tools :D
 <br>
-<p align="center" style="padding-right:30px;">
+<p align="center" style="padding:10px;">
     <a href="https://gleam.run/" target="_blank" rel="noreferrer" >
         <img src = "https://gleam.run/images/lucy/lucy.svg" alt="gleam" width = "80" height = "80"/>
     </a>
