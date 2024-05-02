@@ -39,8 +39,8 @@ That's all, bye. :D
 
 <br>
 <br>
-<br>
-<br>
+
+
 <p align="left">
 </p>
 
@@ -56,6 +56,8 @@ That's all, bye. :D
     </a>
 </p>
 
+<br>
+<br>
 
 ## Langagues, frameworks and tools :D
 
