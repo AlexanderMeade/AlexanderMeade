@@ -9,7 +9,7 @@ That's all, bye. :D
 </a>
 
 
-<pre>
+<pre pad-left:20px>
   ／\_/\  
  （ﾟ､ ｡ )
   |、ﾞ~ヽ
