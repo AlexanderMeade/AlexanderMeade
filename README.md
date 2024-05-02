@@ -19,7 +19,7 @@ That's all, bye. :D
 
 <div>
 
-<div class='parent inline-flex-parent' style = "display: inline-flex;">
+<div class='parent inline-flex-parent' style = "display: grid;grid-template-columns: 1fr 1fr;">
   <div class='child'>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderMeade&show_icons=true&theme=radical)   
