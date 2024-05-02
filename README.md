@@ -163,7 +163,7 @@ That's all, bye. :D
 
 <details>
   
-<summary style="font-size:32px">
+<summary style="font-size:32px" align="center">
     <b >
         <h>
           Threads <img src = "https://seeklogo.com/images/T/threads-by-instagram-logo-20008C5295-seeklogo.com.png?v=638252100920000000" width = 20px height = 20px>
