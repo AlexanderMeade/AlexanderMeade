@@ -33,7 +33,7 @@ some stats :O
 <p align="left">
 </p>
 
-# Tools I'm learning
+# 
 
 <p align = "center" style = "padding: 0px 15px 0px 15px" >
     <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer" >
