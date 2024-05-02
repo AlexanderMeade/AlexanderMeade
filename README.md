@@ -140,7 +140,7 @@ That's all, bye. :D
 
 
 
-<a href = "https://www.instagram.com/alex_i_guess._/?next=%2F" >
+<a href = "https://www.threads.net/@alex_i_guess._" >
 
 
   <img src = "https://github.com/AlexanderMeade/AlexanderMeade/assets/128431625/84e6fb2c-c045-4fb1-8f73-7ffeea4c8e9f">
