@@ -25,7 +25,7 @@ some stats :O
     <b/>
     
 </summary>
-<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderMeade&show_icons=true&theme=radical)
 </details>
 <p align="left">
