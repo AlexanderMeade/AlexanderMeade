@@ -14,8 +14,6 @@ I enjoy taking long walks on the beach and pretending I have a lover, only to sl
 That's all, bye. :D
 
 
-some stats :O
-
 <details>
 <summary style="font-size:32px">
     <b >
