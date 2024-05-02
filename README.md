@@ -100,7 +100,7 @@ alexander10373822827
 <summary style="font-size:32px">
     <b >
         <h>
-        Linkedin <img src = "https://cdn-icons-png.flaticon.com/256/174/174857.png" width = 20px height = 16px>
+        Linkedin <img src = "https://cdn-icons-png.flaticon.com/256/174/174857.png" width = 20px height = 20px>
         <h/>            
     <b/>
     
