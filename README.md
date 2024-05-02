@@ -17,11 +17,15 @@ That's all, bye. :D
 </pre>
 
 
+<div>
 
+<div align = "left">
+    text
+</div>
 <div align= "center">
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderMeade&show_icons=true&theme=radical)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderMeade&show_icons=true&theme=radical)
 
+</div>
 </div>
 <p align="left">
 </p>
