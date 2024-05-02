@@ -63,7 +63,7 @@ That's all, bye. :D
 
 <p align="center" style="padding: 0px 15px 0px 15px">
     <a href="https://gleam.run/" target="_blank" rel="noreferrer" >
-        <img src = "https://gleam.run/images/lucy/lucy.svg" alt="gleam" width = "120" height = "120"/>
+        <img src = "https://gleam.run/images/lucy/lucy.svg" alt="gleam" width = "80" height = "80"/>
     </a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
