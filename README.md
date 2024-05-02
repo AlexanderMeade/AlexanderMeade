@@ -26,8 +26,11 @@ That's all, bye. :D
     
 </summary>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderMeade&show_icons=true&theme=radical)
 </details>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderMeade&show_icons=true&theme=radical)
+
 <p align="left">
 </p>
 <b style = "text-align: center">Tools I'm learning</b>
