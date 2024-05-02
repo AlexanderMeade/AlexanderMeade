@@ -28,7 +28,9 @@ That's all, bye. :D
         
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderMeade&show_icons=true&theme=radical)
     </a>
-    <a>B</a>
+    <a>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMeade)](https://github.com/anuraghazra/github-readme-stats)
+    </a>
 </p>
 
 
