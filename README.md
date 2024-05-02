@@ -19,6 +19,17 @@ That's all, bye. :D
 
 <div>
 
+<style>
+  .container {
+    display: flex; /* Use flexbox to align items */
+  }
+
+  .element {
+    margin-right: 20px; /* Add some spacing between elements */
+  }
+</style>
+
+
 <div class='parent inline-flex-parent' style = "display: grid;grid-template-columns: 1fr 1fr;">
   <div class='child'>
 
