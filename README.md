@@ -22,7 +22,7 @@ That's all, bye. :D
 
 <br>
 
-<div align="center">
+<div class="parent"align="center">
 <p >
     <a align="center">
         
