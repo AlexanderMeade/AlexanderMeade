@@ -28,8 +28,8 @@ some stats :O
 </p>
 
 <p align = "center" style = "padding: 0px 15px 0px 15px" >
-    <a href="https://gleam.run/](https://elixir-lang.org/" target="_blank" rel="noreferrer" >
-        <img src = "https://elixir-lang.org/images/logo/logo.png" alt="gleam" width = "40" height = "40"/>
+    <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer" >
+        <img src = "https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_169207.png" alt="gleam" width = "40" height = "40"/>
     </a>
     
 </p>
