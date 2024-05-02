@@ -115,8 +115,8 @@ That's all, bye. :D
 
 </details>
 
-
 <details>
+
 <summary style="font-size:32px">
     <b >
         <h>
@@ -126,7 +126,7 @@ That's all, bye. :D
     
 </summary>
 
-
+</details>
 
 <summary style="font-size:32px">
     <b >
