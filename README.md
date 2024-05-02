@@ -55,7 +55,7 @@ That's all, bye. :D
         <img src = "https://www.erlang.org/assets/img/erlang-logo.svg" alt="erlang" width = "80" height = "80"/>
     </a>
         <a href="https://www.phoenixframework.org/" target="_blank" rel="noreferrer" style="margin-left:20px;">
-        <img src = "https://seeklogo.com/images/P/phoenix-logo-D15F067911-seeklogo.com.png" alt="erlang" width = "80" height = "80"/>
+        <img src = "https://scorpil.com/img/phoenix.png" alt="erlang" width = "80" height = "80"/>
     </a>
 </p>
 
