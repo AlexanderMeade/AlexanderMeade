@@ -29,7 +29,7 @@ That's all, bye. :D
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderMeade&show_icons=true&theme=radical)   
   </div>
       --->
-  <div class='child' style = "flex:1">
+  <div class='child' style = "float:left">
       B
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMeade)](https://github.com/anuraghazra/github-readme-stats)
