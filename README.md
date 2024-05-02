@@ -12,11 +12,11 @@
     
 </summary>
 <br>
-( Felix Lee  )
-    |\      _,,,---,,_
-ZZZzz /,`.-'`'    -.  ;-;;,_
-     |,4-  ) )-,_. ,\ (  `'-'
-    '---''(_/--'  `-'\_)  
+( Felix Lee  )<br>
+    |\      _,,,---,,_<br>
+ZZZzz /,`.-'`'    -.  ;-;;,_<br>
+     |,4-  ) )-,_. ,\ (  `'-'<br>
+    '---''(_/--'  `-'\_)  <br>
 
 Howdy I'm Alex. I'm a self-taught programmer hailing from Kentucky who's been programming since freshman year. Unfortunately,  I didn't make a github until a little while ago.
 I really like functional programming and low-level languages and have a particular affinity for making compilers, whether they are serious or not. I program a lot, but some days
