@@ -14,10 +14,10 @@
 <br>
 <pre>
 ( Felix Lee  )
-    |\      _,,,---,,_
-ZZZzz /,`.-'`'    -.  ;-;;,_
-     |,4-  ) )-,_. ,\ (  `'-'
-    '---''(_/--'  `-'\_)  
+  ／\_/\  
+ （ﾟ､ ｡ )
+  |、ﾞ~ヽ
+  じし\_, )ノ
 </pre>
 Howdy I'm Alex. I'm a self-taught programmer hailing from Kentucky who's been programming since freshman year. Unfortunately,  I didn't make a github until a little while ago.
 I really like functional programming and low-level languages and have a particular affinity for making compilers, whether they are serious or not. I program a lot, but some days
