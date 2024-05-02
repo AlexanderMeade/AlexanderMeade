@@ -23,12 +23,12 @@ That's all, bye. :D
 <br>
 
 
-  <div class='child' align: "center">
+  <div class="a" align="center">
       A
 <!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderMeade&show_icons=true&theme=radical)  ---> 
   </div>
-      --->
+
   <div class='child' style = "float:left">
       B
 <!---
