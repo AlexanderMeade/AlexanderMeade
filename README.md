@@ -100,6 +100,10 @@ That's all, bye. :D
     </a> 
 </p>
 
+
+<br>
+<br>
+
 # contact me
 
 <!----discord---->
