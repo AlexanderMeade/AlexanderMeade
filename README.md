@@ -22,7 +22,7 @@ That's all, bye. :D
 
 <br>
 
-
+<div>
   <div class="a"  style="display: inline-block">
       A
 <!---
@@ -36,7 +36,7 @@ That's all, bye. :D
       ---->
   </div>
 
-
+</div>
 
 
 <br>
