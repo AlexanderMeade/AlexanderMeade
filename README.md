@@ -23,7 +23,7 @@ That's all, bye. :D
 <br>
 
 
-<p align="center">
+<p class="parent"align="center">
     <a>
         
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderMeade&show_icons=true&theme=radical)
