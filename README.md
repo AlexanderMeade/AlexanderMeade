@@ -19,7 +19,7 @@ That's all, bye. :D
 
 <div>
 
-<div align = "left">
+<div align = "left" style = "position:absolute;margin-top:30px">
     text
 </div>
 <div align= "center">
