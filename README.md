@@ -29,10 +29,7 @@ That's all, bye. :D
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMeade)](https://github.com/anuraghazra/github-readme-stats)
       
   </div>
-  <div>
-      
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlexanderMeade)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
+
 </div>
 
 
