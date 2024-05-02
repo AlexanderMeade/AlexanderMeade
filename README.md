@@ -57,7 +57,6 @@ That's all, bye. :D
 </p>
 
 <br>
-<br>
 
 ## Langagues, frameworks and tools :D
 <br>
