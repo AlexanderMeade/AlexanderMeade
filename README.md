@@ -23,7 +23,7 @@ That's all, bye. :D
 <br>
 
 
-  <div class='child' style = "float:left;" align:center>
+  <div class='child' style = "float:left;" align:"center">
       A
 <!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderMeade&show_icons=true&theme=radical)   
