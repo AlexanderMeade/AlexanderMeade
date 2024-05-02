@@ -23,7 +23,7 @@ That's all, bye. :D
 <br>
 
 
-  <div class='child' style = "flex:1">
+  <div class='child' style = "float:left;">
       A
 <!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderMeade&show_icons=true&theme=radical)   
