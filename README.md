@@ -90,6 +90,30 @@ That's all, bye. :D
     
 </summary>
 
+<script>
+function myFunction() {
+  // Get the text field
+  var copyText = document.getElementById("myInput");
+
+  // Select the text field
+  copyText.select();
+  copyText.setSelectionRange(0, 99999); // For mobile devices
+
+   // Copy the text inside the text field
+  navigator.clipboard.writeText(copyText.value);
+
+  // Alert the copied text
+  alert("Copied the text: " + copyText.value);
+} 
+</script>
+
+ <!-- The text field -->
+<input type="text" value="Hello World" id="myInput">
+
+<!-- The button used to copy the text -->
+<button onclick="myFunction()">Copy text</button> 
+
+
 ![image](https://github.com/AlexanderMeade/AlexanderMeade/assets/128431625/b28656e1-aa1e-4799-a1a6-3b61e5db36b5)
 
 alexander10373822827
