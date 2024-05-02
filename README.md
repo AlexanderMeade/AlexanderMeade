@@ -130,6 +130,9 @@ That's all, bye. :D
     
 </summary>
 
+<a href = "https://www.instagram.com/alex_i_guess._/?next=%2F">
+  <img src = "https://github.com/AlexanderMeade/AlexanderMeade/assets/128431625/f5095ab8-e167-45ac-9abf-c19fd16b0ce6">
+</a>
 </details>
 
 <!----threads---->
