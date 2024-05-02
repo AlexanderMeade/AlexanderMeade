@@ -141,3 +141,21 @@ That's all, bye. :D
 </a>
 
 </details>
+
+
+<summary style="font-size:32px">
+    <b >
+        <h>
+          Threads <img src = "https://seeklogo.com/images/T/threads-by-instagram-logo-20008C5295-seeklogo.com.png?v=638252100920000000" width = 20px height = 20px>
+        <h/>            
+    <b/>
+    
+</summary>
+
+<a href = "https://www.instagram.com/alex_i_guess._/?next=%2F" >
+
+  <img src = "https://github.com/AlexanderMeade/AlexanderMeade/assets/128431625/84e6fb2c-c045-4fb1-8f73-7ffeea4c8e9f">
+</a>
+
+</details>
+
