@@ -18,6 +18,10 @@ I really like functional programming and low-level languages and have a particul
 I enjoy taking long walks on the beach and pretending I have a lover, only to slowly realize that I have condemed myself to a life of software engineering and thus solitude. 
 That's all, bye. :D
 
+
+some stats :O
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderMeade&show_icons=true&theme=radical)
 </details>
 
 <p align="left">
@@ -69,5 +73,3 @@ That's all, bye. :D
 </a> 
 
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderMeade&show_icons=true&theme=radical)
