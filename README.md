@@ -24,7 +24,7 @@ That's all, bye. :D
 
 
 <p class="parent"align="center">
-    <a>
+    <a align="center">
         
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderMeade&show_icons=true&theme=radical)
     </a>
