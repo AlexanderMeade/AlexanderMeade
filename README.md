@@ -23,14 +23,14 @@ That's all, bye. :D
 <br>
 
 
-<div class='parent inline-flex-parent' >
-  <div class='child' style = "float:left">
+<div class='parent inline-flex-parent' style="display:flex" >
+  <div class='child' style = "flex:1">
       A
 <!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderMeade&show_icons=true&theme=radical)   
   </div>
       --->
-  <div class='child' style = "float:left">
+  <div class='child' style = "flex:1">
       B
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMeade)](https://github.com/anuraghazra/github-readme-stats)
