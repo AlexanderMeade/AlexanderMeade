@@ -3,7 +3,7 @@
 
 
 <details>
-<summary><b style="font-size:10">How do I dropdown?<b/></summary>
+<summary><b style="font-size:16">How do I dropdown?<b/></summary>
 <br>
 This is how you dropdown.
 </details>
