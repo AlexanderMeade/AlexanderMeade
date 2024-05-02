@@ -23,7 +23,7 @@ That's all, bye. :D
 <br>
 
 
-  <div class="a" align="center">
+  <div class="a" float="left">
       A
 <!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderMeade&show_icons=true&theme=radical)  ---> 
