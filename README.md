@@ -27,6 +27,13 @@ some stats :O
 <p align="left">
 </p>
 
+<p align = "center" style = "padding: 0px 15px 0px 15px" >
+    <a href="https://gleam.run/](https://elixir-lang.org/" target="_blank" rel="noreferrer" >
+        <img src = "https://elixir-lang.org/images/logo/logo.png" alt="gleam" width = "40" height = "40"/>
+    </a>
+    
+</p>
+
 
 ## Langagues, frameworks and tools :D
 
