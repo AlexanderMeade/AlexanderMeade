@@ -23,7 +23,7 @@ That's all, bye. :D
 <br>
 
 
-<div class='parent inline-flex-parent' style = "display: grid;grid-template-columns: 1fr 1fr;">
+<div class='parent inline-flex-parent' >
   <div class='child' style = "float:left">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderMeade&show_icons=true&theme=radical)   
