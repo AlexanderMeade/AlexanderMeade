@@ -97,9 +97,7 @@ That's all, bye. :D
     <a> 
       <img src="https://bashlogo.com/img/symbol/png/monochrome_light.png" alt="unity" width="80" height="80"/> 
     </a> 
-    <a href = "https://github.com/AlexanderMeade/Skib-Lang"> 
-      <img src="https://github.com/AlexanderMeade/AlexanderMeade/assets/128431625/edeead10-47af-438b-ab6e-daf673ac9349" alt="unity" width="80" height="80"/> 
-    </a> 
+
 </p>
 
 
