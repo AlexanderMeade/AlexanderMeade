@@ -42,22 +42,6 @@ That's all, bye. :D
 <p align="left">
 </p>
 
-# tools I'm learning
-
-<br>
-<p align = "center"  >
-    <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer" >
-        <img src = "https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_169207.png" alt="elixir" width = "80" height = "80"/>
-    </a>
-    <a href="https://www.erlang.org/" target="_blank" rel="noreferrer" >
-        <img src = "https://www.erlang.org/assets/img/erlang-logo.svg" alt="erlang" width = "80" height = "80"/>
-    </a>
-        <a href="https://www.phoenixframework.org/" target="_blank" rel="noreferrer" style="margin-left:20px;">
-        <img src = "https://scorpil.com/img/phoenix.png" alt="erlang" width = "80" height = "80"/>
-    </a>
-</p>
-
-<br>
 
 ## Langagues, frameworks and tools :D
 <br>
@@ -101,6 +85,25 @@ That's all, bye. :D
 
 </p>
 
+
+# tools I'm learning
+
+<br>
+<p align = "center"  >
+    <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer" >
+        <img src = "https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_169207.png" alt="elixir" width = "80" height = "80"/>
+    </a>
+    <a href="https://www.erlang.org/" target="_blank" rel="noreferrer" >
+        <img src = "https://www.erlang.org/assets/img/erlang-logo.svg" alt="erlang" width = "80" height = "80"/>
+    </a>
+        <a href="https://www.phoenixframework.org/" target="_blank" rel="noreferrer" style="margin-left:20px;">
+        <img src = "https://scorpil.com/img/phoenix.png" alt="erlang" width = "80" height = "80"/>
+    </a>
+</p>
+
+<br>
+
+
 # contact me
 
 <!----discord---->
@@ -121,7 +124,7 @@ That's all, bye. :D
 </details>
 </div>
 <!----linkedin---->
-
+<div align="center">
 <details>
 <summary style="font-size:32px">
     <b >
@@ -138,9 +141,9 @@ That's all, bye. :D
 </a>
 
 </details>
-
+</div<
 <!----instagram---->
-
+<div align="center">
 <details>
 
 <summary style="font-size:32px">
@@ -156,9 +159,9 @@ That's all, bye. :D
   <img src = "https://github.com/AlexanderMeade/AlexanderMeade/assets/128431625/f5095ab8-e167-45ac-9abf-c19fd16b0ce6">
 </a>
 </details>
-
+</div>
 <!----threads---->
-
+<div align="center">
 <details>
   
 <summary style="font-size:32px" align="center">
@@ -179,4 +182,4 @@ That's all, bye. :D
 </a>
 
 </details>
-
+</div>
