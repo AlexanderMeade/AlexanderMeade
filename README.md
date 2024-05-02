@@ -22,13 +22,12 @@ That's all, bye. :D
 
 <br>
 
-  <div style="float: left; width: calc(50% - 5px);"> <!-- Adjusted width -->
-    <p>This is the content of element 1.</p>
-  </div>
 
-  <div style="float: left; width: calc(50% - 5px);"> <!-- Adjusted width -->
-    <p>This is the content of element 2.</p>
-  </div>
+<p float="left">
+    <a>A</a>
+    <a>B</a>
+</p>
+
 
 <br>
 <br>
