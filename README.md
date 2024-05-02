@@ -23,18 +23,8 @@ That's all, bye. :D
 <br>
 
 <div align="center">
-  <div class="a"  style="display: inline-block">
-      A
-<!---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderMeade&show_icons=true&theme=radical)  ---> 
-  </div>
-
-  <div class='child'  style="display: inline-block">
-      B
-<!---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMeade)](https://github.com/anuraghazra/github-readme-stats)
-      ---->
-  </div>
+    <p>A</p>
+    <p>B</p>
 
 </div>
 
