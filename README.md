@@ -22,9 +22,9 @@ That's all, bye. :D
 
 <br>
 
-<div style="display:flex;">
-    <p>A</p>
-    <p>B</p>
+<div class="parent"style="display:flex;">
+    <p class="child" style="flex:1">A</p>
+    <p class="child" style="flex:1">B</p>
 
 </div>
 
