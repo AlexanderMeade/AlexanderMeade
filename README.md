@@ -23,7 +23,6 @@ That's all, bye. :D
 <br>
 
   <div style="float: left; width: calc(50% - 5px);"> <!-- Adjusted width -->
-
     <p>This is the content of element 1.</p>
   </div>
 
