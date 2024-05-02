@@ -16,17 +16,6 @@ That's all, bye. :D
 </pre>
 
 
-<details>
-<summary style="font-size:32px">
-    <b >
-        <h>
-        Extras
-        <h/>            
-    <b/>
-    
-</summary>
-
-</details>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderMeade&show_icons=true&theme=radical)
@@ -89,3 +78,42 @@ That's all, bye. :D
 </p>
 
 # contact me
+
+
+<details>
+<summary style="font-size:32px">
+    <b >
+        <h>
+          Discord
+        <h/>            
+    <b/>
+    
+</summary>
+
+</details>
+
+
+<details>
+<summary style="font-size:32px">
+    <b >
+        <h>
+        Linkedin
+        <h/>            
+    <b/>
+    
+</summary>
+
+</details>
+
+
+<details>
+<summary style="font-size:32px">
+    <b >
+        <h>
+          Instagram
+        <h/>            
+    <b/>
+    
+</summary>
+
+</details>
