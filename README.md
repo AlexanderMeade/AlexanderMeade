@@ -100,10 +100,6 @@ That's all, bye. :D
 
 </p>
 
-
-<br>
-
-
 # contact me
 
 <!----discord---->
