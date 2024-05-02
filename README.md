@@ -105,7 +105,7 @@ That's all, bye. :D
 
 <!----discord---->
 
-<details>
+<details align="center">
 <summary style="font-size:32px" align="center">
     <b >
         <h >
