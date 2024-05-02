@@ -106,7 +106,10 @@ alexander10373822827
     
 </summary>
 
-<a href = "https://www.linkedin.com/feed/" >test</a>
+<a href = "https://www.linkedin.com/in/alexander-meade-76424326b/" >
+
+  ![image](https://github.com/AlexanderMeade/AlexanderMeade/assets/128431625/3bd7fe67-751f-4372-86f1-88a7c583d9c3)
+</a>
 
 </details>
 
