@@ -101,8 +101,6 @@ That's all, bye. :D
     </a>
 </p>
 
-<br>
-
 
 # contact me
 
@@ -172,7 +170,6 @@ That's all, bye. :D
     <b/>
     
 </summary>
-
 
 
 <a href = "https://www.threads.net/@alex_i_guess._" >
