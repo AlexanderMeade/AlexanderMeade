@@ -63,7 +63,7 @@ That's all, bye. :D
 
 <p align="center" style="padding: 0px 15px 0px 15px">
     <a href="https://gleam.run/" target="_blank" rel="noreferrer" >
-        <img src = "https://gleam.run/images/lucy/lucy.svg" alt="gleam" width = "40" height = "40"/>
+        <img src = "https://gleam.run/images/lucy/lucy.svg" alt="gleam" width = "120" height = "120"/>
     </a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -169,7 +169,7 @@ That's all, bye. :D
 <summary style="font-size:32px">
     <b >
         <h>
-          Threads <img src = "https://seeklogo.com/images/T/threads-by-instagram-logo-20008C5295-seeklogo.com.png?v=638252100920000000" width = 40px height = 40px>
+          Threads <img src = "https://seeklogo.com/images/T/threads-by-instagram-logo-20008C5295-seeklogo.com.png?v=638252100920000000" width = 20px height = 20px>
         <h/>            
     <b/>
     
