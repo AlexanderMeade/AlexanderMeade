@@ -32,7 +32,7 @@ some stats :O
 
 <p align="left">
 </p>
-
+<b style = "text-align: center;"></b>
 # 
 
 <p align = "center" style = "padding: 0px 15px 0px 15px" >
