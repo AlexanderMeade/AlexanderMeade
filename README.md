@@ -23,7 +23,6 @@ That's all, bye. :D
 <br>
 
 
-<div class='parent inline-flex-parent' style="display:flex" >
   <div class='child' style = "flex:1">
       A
 <!---
@@ -37,7 +36,7 @@ That's all, bye. :D
       ---->
   </div>
 
-</div>
+
 
 
 <br>
