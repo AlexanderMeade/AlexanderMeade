@@ -3,10 +3,10 @@
 
 
 <details>
-<summary>
-    <b style="font-size:32px">
+<summary style="font-size:32px">
+    <b >
         <h>
-        How do I dropdown?
+        About me
         <h/>            
     <b/>
     
