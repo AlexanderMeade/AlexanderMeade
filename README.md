@@ -20,6 +20,7 @@ That's all, bye. :D
 <div>
 
 <style>
+    
   .container {
     display: flex; /* Use flexbox to align items */
   }
@@ -27,6 +28,7 @@ That's all, bye. :D
   .element {
     margin-right: 20px; /* Add some spacing between elements */
   }
+    
 </style>
 
 
