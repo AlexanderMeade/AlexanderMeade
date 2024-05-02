@@ -8,7 +8,7 @@ I enjoy taking long walks on the beach and pretending I have a lover, only to sl
 That's all, bye. :D
 </a>
 
-<br/>
+
 
 <pre  style="padding:30px;">
   ／\_/\         ／\_/\           ／\_/\         ／\_/\     ／\_/\         ／\_/\           ／\_/\         ／\_/\       ／\_/\
@@ -17,8 +17,6 @@ That's all, bye. :D
   じし\_, )ノ    じし\_, )ノ      じし\_, )ノ    じし\_, )ノ  じし\_, )ノ    じし\_, )ノ      じし\_, )ノ    じし\_, )ノ   じし\_, )ノ
 </pre>
 
-
-<div>
 
 
 
@@ -36,8 +34,6 @@ That's all, bye. :D
 </div>
 
 
-
-</div>
 <p align="left">
 </p>
 
