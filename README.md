@@ -22,7 +22,7 @@ That's all, bye. :D
 
 <br>
 
-<div align="center">
+<div>
     <p>A</p>
     <p>B</p>
 
