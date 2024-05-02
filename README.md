@@ -118,7 +118,7 @@ alexander10373822827
 <summary style="font-size:32px">
     <b >
         <h>
-          Instagram <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width = 20px height = 16px>
+          Instagram <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width = 20px height = 20px>
         <h/>            
     <b/>
     
