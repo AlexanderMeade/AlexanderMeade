@@ -33,7 +33,8 @@ That's all, bye. :D
 
 <p align="left">
 </p>
-<b style = "text-align: center">Tools I'm learning</b>
+
+# tools I'm learning
 
 
 <p align = "center" style = "padding: 0px 15px 0px 15px" >
