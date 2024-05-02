@@ -24,7 +24,10 @@ That's all, bye. :D
 
 
 <p float="left">
-    <a>A</a>
+    <a>
+        
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderMeade&show_icons=true&theme=radical)
+    </a>
     <a>B</a>
 </p>
 
