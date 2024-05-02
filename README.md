@@ -79,6 +79,7 @@ That's all, bye. :D
 
 # contact me
 
+<!----discord---->
 
 <details>
 <summary style="font-size:32px">
@@ -97,6 +98,7 @@ That's all, bye. :D
 
 </details>
 
+<!----linkedin---->
 
 <details>
 <summary style="font-size:32px">
@@ -115,6 +117,8 @@ That's all, bye. :D
 
 </details>
 
+<!----instagram---->
+
 <details>
 
 <summary style="font-size:32px">
@@ -127,6 +131,9 @@ That's all, bye. :D
 </summary>
 
 </details>
+
+<!----threads---->
+
 <details>
   
 <summary style="font-size:32px">
