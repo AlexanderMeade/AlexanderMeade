@@ -19,14 +19,16 @@ That's all, bye. :D
 
 <div>
 
-<div align = "left" style = "position:absolute;margin-top:30px">
-    text
-</div>
-<div align= "center">
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderMeade&show_icons=true&theme=radical)
+<div class='parent inline-flex-parent'>
+  <div class='child'>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderMeade&show_icons=true&theme=radical)   
+  </div>
+  <div class='child'>B</div>
 </div>
+
+
+
 </div>
 <p align="left">
 </p>
