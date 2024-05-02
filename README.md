@@ -31,6 +31,9 @@ That's all, bye. :D
     <a>
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMeade)](https://github.com/anuraghazra/github-readme-stats)
     </a>
+    <a>
+    [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?AlexanderMeade=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+    </a>
 </p>
 
 
