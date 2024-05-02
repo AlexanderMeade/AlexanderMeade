@@ -22,7 +22,7 @@ That's all, bye. :D
 
 <br>
 
-<div>
+<div style="display:flex;">
     <p>A</p>
     <p>B</p>
 
