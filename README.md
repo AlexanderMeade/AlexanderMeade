@@ -169,7 +169,7 @@ That's all, bye. :D
 <summary style="font-size:32px">
     <b >
         <h>
-          Threads <img src = "https://seeklogo.com/images/T/threads-by-instagram-logo-20008C5295-seeklogo.com.png?v=638252100920000000" width = 20px height = 20px>
+          Threads <img src = "https://seeklogo.com/images/T/threads-by-instagram-logo-20008C5295-seeklogo.com.png?v=638252100920000000" width = 40px height = 40px>
         <h/>            
     <b/>
     
