@@ -26,7 +26,7 @@ That's all, bye. :D
   </div>
   <div class='child'>
       
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilramy&layout=compact)](https://github.com/AlexanderMeade)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilramy&layout=compact)](https://github.com/AlexanderMeade/github-readme-stats)
       
   </div>
 </div>
