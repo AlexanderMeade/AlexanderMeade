@@ -22,7 +22,7 @@ That's all, bye. :D
 
 <br>
 
-<div>
+<div align="center">
   <div class="a"  style="display: inline-block">
       A
 <!---
